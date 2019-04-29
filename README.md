@@ -1,5 +1,5 @@
 # pesquisaspaodeacucar
-Fix pra image do site
+Sugestão de ajustes para o site https://pesquisaspaodeacucar.com.br/minha-conta
 
 
 Como está atualmente:
